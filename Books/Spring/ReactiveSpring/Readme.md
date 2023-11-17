@@ -4,7 +4,7 @@
 
 | Chapter | Name                                           | Status |
 |---------|------------------------------------------------|--------|
-| 1.      | Introduction                                   | ⌛      |
+| 1.      | Introduction                                   | 📖     |
 | 2.      | Prerequisites                                  | ⌛      |
 | 3.      | Bootstrap                                      | ⌛      |
 | 4.      | IO, IO, It’s Off to Work We Go…                | ⌛      |
