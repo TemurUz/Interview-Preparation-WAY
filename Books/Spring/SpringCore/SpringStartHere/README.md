@@ -2,7 +2,7 @@ Reading Plan 📘
 
 |Chapter|Name|Status|
 |--|----|---------|
-|1.|Spring in the real world |⌛|
+|1.|Spring in the real world |✅|
 |2.|The Spring context: Defining beans|⌛|
 |3.|The Spring context: Wiring beans|⌛|
 |4.|The Spring context: Using abstractions|⌛|
